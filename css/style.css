@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+
+#main{
+    padding: 100px;
+    background: teal;
+    height: 400px;
+}
+
+button{
+    padding: 15px 25px;
+    background: tomato;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background: tomato;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.katrinaKaif{
+    height: 200px;
+    width: 200px;
+    background: rgb(246, 0, 188);
+    border-radius: 10px;
+    margin-top: 50px;
+}
